@@ -1,0 +1,36 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+.box {
+	width: 33.3%;
+	height: 100%;
+	float: left;
+}
+.blue {
+	background: #4A90E2;
+}
+.teal {
+	background: #50E3C2;
+}
+.green {
+	background: #B8E986;
+	height: 70%;
+}
+.red {
+	background: red;
+	height: 30%;
+}
+.text {
+	color: white;
+	font-size: 2em;
+	text-align: center;
+	margin: 80px 40px 40px;
+	font-family: sans-serif;
+
+}
+.clearfix {
+	clear: none;
+}
